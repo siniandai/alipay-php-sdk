@@ -1,0 +1,21 @@
+{
+	"name": "sinian/alipay-php-sdk",
+	"description": "支付宝php SDK",
+	"type": "library",
+	"keywords": ["alipay-sdk-php"],
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "sinian",
+			"email": "aoic@qq.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"sinian\\": ""
+		}
+	}
+}
