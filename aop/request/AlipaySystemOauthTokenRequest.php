@@ -1,4 +1,5 @@
 <?php
+namespace sinian\aop\request;
 /**
  * ALIPAY API: alipay.system.oauth.token request
  *

@@ -15,7 +15,9 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"sinian\\": ""
+			"sinian\\": "",
+			"sinian\\aop\\": "aop/",
+			"sinian\\aop\\request\\": "aop/request/"
 		}
 	}
 }
